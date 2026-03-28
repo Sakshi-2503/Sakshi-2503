@@ -1,4 +1,4 @@
-## 🛠️ Skills & Tools
+Hi 👋 My name is Sakshi Devkar ============================== Aspiring Data Analyst ------------ I aim to grow as a Data Analyst by continuously learning new tools and techniques, working on real-world datasets, and contributing to organizations by providing valuable insights that improve performance and strategy. * 🌍 I'm based in Sangli * ✉️ You can contact me at [devkarsakshi42@gmail.com](mailto:devkarsakshi42@gmail.com) * 🧠 I'm currently learning IOT, Blockchain## 🛠️ Skills & Tools
 
 <p align="left">
 
