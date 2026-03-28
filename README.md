@@ -49,7 +49,3 @@ Git | Visual Studio Code (VS Code) | Vim
 * GitHub: https://github.com/Sakshi-2503
 * LinkedIn: https://www.linkedin.com/in/sakshi-devkar-939635298/
 
----
-
-
-⭐ **Thank you for visiting my profile!**
