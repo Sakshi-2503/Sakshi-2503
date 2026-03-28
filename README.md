@@ -1,60 +1,74 @@
-# Hi 👋 I'm Sakshi Devkar
+✨ Hi there, I'm Sakshi Devkar 👋
+<div align="center">
 
-## 🚀 Aspiring Data Analyst
+💡 Turning data into meaningful insights
+📊 Future Data Analyst in progress
 
-I am a passionate and detail-oriented aspiring Data Analyst who enjoys transforming raw data into meaningful insights.  
-My goal is to continuously learn modern data tools and techniques, work on real-world datasets, and contribute to data-driven decision-making that improves business performance and strategy.
+</div>
+🌟 About Me
 
----
+I’m an enthusiastic and detail-oriented Aspiring Data Analyst who loves working with data and uncovering hidden patterns.
+I enjoy transforming raw datasets into actionable insights that help in smarter decision-making.
 
-## 🌍 About Me
+🎯 My mission is simple:
 
-- 📍 Based in Sangli, India  
-- 📧 Email: devkarsakshi42@gmail.com  
-- 🎯 Career Goal: Become a skilled Data Analyst  
-- 📚 Currently Learning: IoT & Blockchain  
-- 💡 Interested in: Data Analysis, Visualization, and Business Insights  
+Learn continuously, analyze deeply, and create impact through data.
 
----
+🎯 Career Vision
+<div>
 
-## 🧠 Skills & Technologies
+🔹 Become a professional Data Analyst
+🔹 Work on real-world datasets
+🔹 Help businesses make data-driven decisions
+🔹 Keep upgrading skills with modern tools
 
-### 👩‍💻 Programming & Web
-- Python  
-- JavaScript  
-- PHP  
+</div>
+🧩 What I’m Learning
 
-### 📊 Data & Database
-- MySQL  
-- Data Cleaning & Data Analysis (Basics)  
+✨ Exploring exciting technologies like:
 
-### 🌐 Web Development
-- HTML, CSS  
-- Angular  
-- Tailwind CSS  
-- Bootstrap  
+🔗 IoT (Internet of Things)
+⛓️ Blockchain
+📊 Advanced Data Analysis
+⚡ Tech Toolbox
+<div align="center">
+👩‍💻 Languages
 
-### 🛠️ Tools
-- Git & GitHub  
-- VS Code  
-- Node.js  
+Python • JavaScript • PHP
 
----
+📊 Data Skills
 
-## 📊 Data Analyst Focus
+MySQL • Data Cleaning • Basic Analysis
 
-As an aspiring Data Analyst, I focus on:
+🌐 Web Skills
 
-- 📌 Data Cleaning & Preprocessing  
-- 📌 Data Visualization & Reporting  
-- 📌 Extracting meaningful insights from datasets  
-- 📌 Problem-solving using data  
-- 📌 Understanding business requirements through data  
+HTML • CSS • Angular • Tailwind • Bootstrap
 
+🛠️ Tools
 
-## 🌐 Connect With Me
+Git • GitHub • VS Code • Node.js
 
-- 💻 GitHub: https://github.com/Sakshi-2503  
-- 🔗 LinkedIn: https://www.linkedin.com/in/sakshi-devkar-939635298/  
+</div>
+📊 Data Analyst Mindset
 
----
+Instead of just tools, I focus on thinking like an analyst:
+
+✔ Cleaning messy data into usable form
+✔ Finding patterns & trends
+✔ Creating meaningful visual insights
+✔ Solving real-world problems using data
+✔ Understanding business needs
+
+🌐 Let’s Connect
+<div align="center">
+
+💻 GitHub
+👉 https://github.com/Sakshi-2503
+
+🔗 LinkedIn
+👉 https://www.linkedin.com/in/sakshi-devkar-939635298/
+
+📧 Email
+👉 devkarsakshi42@gmail.com
+
+</div>
