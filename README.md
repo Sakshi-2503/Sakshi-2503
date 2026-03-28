@@ -1,74 +1,95 @@
-✨ Hi there, I'm Sakshi Devkar 👋
-<div align="center">
+<h1 align="center">✨ Hi, I'm Sakshi Devkar 👋</h1>
 
-💡 Turning data into meaningful insights
-📊 Future Data Analyst in progress
+<p align="center">
+  💡 Turning Data into Insights <br>
+  📊 Aspiring Data Analyst
+</p>
 
-</div>
-🌟 About Me
+---
 
-I’m an enthusiastic and detail-oriented Aspiring Data Analyst who loves working with data and uncovering hidden patterns.
-I enjoy transforming raw datasets into actionable insights that help in smarter decision-making.
+## 🌟 About Me  
 
-🎯 My mission is simple:
+I am an enthusiastic and detail-oriented **Aspiring Data Analyst** who loves working with data and uncovering hidden patterns.  
+I enjoy transforming raw datasets into actionable insights that support smarter decision-making.
 
-Learn continuously, analyze deeply, and create impact through data.
+> 🎯 *Learn continuously, analyze deeply, and create impact through data.*
 
-🎯 Career Vision
-<div>
+---
 
-🔹 Become a professional Data Analyst
-🔹 Work on real-world datasets
-🔹 Help businesses make data-driven decisions
-🔹 Keep upgrading skills with modern tools
+## 🎯 Career Goals  
 
-</div>
-🧩 What I’m Learning
+<p align="center">
+🔹 Become a Professional Data Analyst <br>
+🔹 Work on Real-world Datasets <br>
+🔹 Help Businesses Make Data-driven Decisions <br>
+🔹 Continuously Upgrade Skills  
+</p>
 
-✨ Exploring exciting technologies like:
+---
 
-🔗 IoT (Internet of Things)
-⛓️ Blockchain
-📊 Advanced Data Analysis
-⚡ Tech Toolbox
-<div align="center">
-👩‍💻 Languages
+## 🧠 What I'm Learning  
 
-Python • JavaScript • PHP
+<p align="center">
+🔗 IoT &nbsp;&nbsp;|&nbsp;&nbsp; ⛓️ Blockchain &nbsp;&nbsp;|&nbsp;&nbsp; 📊 Advanced Data Analysis
+</p>
 
-📊 Data Skills
+---
 
-MySQL • Data Cleaning • Basic Analysis
+## ⚡ Tech Stack  
 
-🌐 Web Skills
+### 👩‍💻 Languages  
+<p>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php">
+</p>
 
-HTML • CSS • Angular • Tailwind • Bootstrap
+### 📊 Data Skills  
+<p>
+  <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge">
+</p>
 
-🛠️ Tools
+### 🌐 Web Development  
+<p>
+  <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular">
+  <img src="https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwind-css">
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap">
+</p>
 
-Git • GitHub • VS Code • Node.js
+### 🛠️ Tools  
+<p>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code">
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js">
+</p>
 
-</div>
-📊 Data Analyst Mindset
+---
 
-Instead of just tools, I focus on thinking like an analyst:
+## 📊 Data Analyst Mindset  
 
-✔ Cleaning messy data into usable form
-✔ Finding patterns & trends
-✔ Creating meaningful visual insights
-✔ Solving real-world problems using data
-✔ Understanding business needs
+✔ Clean and preprocess raw data  
+✔ Discover patterns and trends  
+✔ Create meaningful visualizations  
+✔ Solve real-world problems using data  
+✔ Understand business requirements  
 
-🌐 Let’s Connect
-<div align="center">
+---
 
-💻 GitHub
-👉 https://github.com/Sakshi-2503
+## 🌐 Connect With Me  
 
-🔗 LinkedIn
-👉 https://www.linkedin.com/in/sakshi-devkar-939635298/
+<p align="center">
+  💻 <a href="https://github.com/Sakshi-2503">GitHub</a> &nbsp;|&nbsp;
+  🔗 <a href="https://www.linkedin.com/in/sakshi-devkar-939635298/">LinkedIn</a> &nbsp;|&nbsp;
+  📧 devkarsakshi42@gmail.com
+</p>
 
-📧 Email
-👉 devkarsakshi42@gmail.com
+---
 
-</div>
+<p align="center">
+✨ <i>“Data is not just numbers, it tells a story — I aim to tell it better.”</i>
+</p>
