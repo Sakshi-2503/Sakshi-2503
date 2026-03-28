@@ -1,7 +1,7 @@
 Hi 👋 My name is Sakshi Devkar
 ==============================
 
-Data Analyst
+Aspiring Data Analyst
 ------------
 
 I aim to grow as a Data Analyst by continuously learning new tools and techniques, working on real-world datasets, and contributing to organizations by providing valuable insights that improve performance and strategy.
