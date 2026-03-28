@@ -8,10 +8,12 @@ I am passionate about building a career in **Data Analytics**, where I can trans
 
 ## 🌍 About Me
 
-📍 Based in **Sangli, India** 
-✉️ Email: **[devkarsakshi42@gmail.com](mailto:devkarsakshi42@gmail.com)** 
-🧠 Currently learning: **IoT & Blockchain** * 
+📍 Based in **Sangli, India**
+✉️ Email: **[devkarsakshi42@gmail.com](mailto:devkarsakshi42@gmail.com)**
+🧠 Currently learning **IoT & Blockchain**
 🎯 Goal: To become a skilled **Data Analyst** and contribute to impactful projects
+
+---
 
 ## 🛠️ Skills & Tools
 
@@ -33,16 +35,20 @@ Git | Visual Studio Code (VS Code) | Vim
 
 ---
 
-## 📊 What I’m Working On 
-📈 Data analysis projects using Python 
-📊 Exploring data visualization techniques 
-🌐 Building web-based applications 
+## 📊 What I’m Working On
+
+📈 Data analysis projects using Python
+📊 Exploring data visualization techniques
+🌐 Building web-based applications
 📚 Learning advanced analytics tools
 
 ---
 
-## 🔗 Connect With Me 
-GitHub: https://github.com/Sakshi-2503 
+## 🔗 Connect With Me
+
+GitHub: https://github.com/Sakshi-2503
 LinkedIn: https://www.linkedin.com/in/sakshi-devkar-939635298/
 
+---
 
+⭐ **Thank you for visiting my profile!**
