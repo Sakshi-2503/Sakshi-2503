@@ -51,17 +51,6 @@ As an aspiring Data Analyst, I focus on:
 - 📌 Problem-solving using data  
 - 📌 Understanding business requirements through data  
 
----
-
-## 📈 Projects
-
-Here are some of my key projects:
-
-- 📚 **Library Management System** (Desktop Application)  
-- 🏢 **Employee Leave Management System** (PHP + MySQL)  
-- 🍽️ **Restaurant Website** (HTML, CSS, JavaScript)  
-
----
 
 ## 🌐 Connect With Me
 
@@ -69,7 +58,3 @@ Here are some of my key projects:
 - 🔗 LinkedIn: https://www.linkedin.com/in/sakshi-devkar-939635298/  
 
 ---
-
-## ✨ Motto
-
-_"Turning data into actionable insights and meaningful decisions."_
